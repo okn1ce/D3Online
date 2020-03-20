@@ -101,7 +101,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: linear-gradient( 109.6deg,  rgba(113,14,51,0.83) 15.2%, rgba(217,43,23,0.95) 96.8% );
+		background-image: radial-gradient( circle 1099px at 7.3% 32.5%,  rgba(255,109,0,1) 0.1%, rgba(255,224,178,1) 48.7% );
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -118,7 +118,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: #585858;
+		color: white;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
