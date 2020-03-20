@@ -32,7 +32,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 	background-image: linear-gradient( 109.6deg,  rgba(113,14,51,0.83) 15.2%, rgba(217,43,23,0.95) 96.8% );
-	color: white;
+	color: black;
 }
 
 ol, ul {
@@ -118,7 +118,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: white;
+		color: black;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
