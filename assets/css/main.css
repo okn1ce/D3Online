@@ -104,7 +104,10 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: black;
+		background-image: url("https://i.redd.it/3w67b1kx82z21.png");
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
 
 
 	}
@@ -152,7 +155,7 @@ input, select, textarea {
 		-ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		text-decoration: none;
-		color: red;
+		color: #fff200;
 		border-bottom: dotted 1px rgba(88, 88, 88, 0.5);
 	}
 
